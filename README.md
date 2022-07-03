@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Paraguay
-* 🖥️  See my portfolio at [karajallo.com](http://karajallo.com.py)
+* 🖥️  See my portfolio at [karajallo.com](http://karajallo.com)
 * ✉️  You can contact me at [mario@karajallo.com](mailto:mario@karajallo.com)
 * 🧠  I'm learning JavaScript and Python
 
