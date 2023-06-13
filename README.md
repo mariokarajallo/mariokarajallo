@@ -6,7 +6,7 @@ Full Stack Developer
 
 * 🌍  I'm based in Paraguay
 * 🖥️  See my portfolio at [karajallo.com](http://karajallo.com)
-* ✉️  You can contact me at [mario@karajallo.com](mailto:mario@karajallo.com)
+* ✉️  You can contact me at [mariokarajallo92@gmail.com](mailto:mariokarajallo92@gmail.com)
 * 🧠  I'm learning JavaScript and Python
 
 <a href="https://www.twitter.com/mariokarajallo" target="_blank" rel="noreferrer"><img
@@ -42,6 +42,6 @@ src="https://img.shields.io/twitter/follow/mariokarajallo?logo=twitter&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mariokarajallo"><img src="https://github-readme-stats.vercel.app/api?username=mariokarajallo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mariokarajallo's GitHub stats" /></a>
+<a href="http://www.github.com/mariokarajallo"><img src="https://github-readme-stats.vercel.app/api?username=mariokarajallo&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="mariokarajallo's GitHub stats" /></a>
 
-<a href="https://github.com/mariokarajallo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariokarajallo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/mariokarajallo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariokarajallo&layout=compact&hide=Jupyter%20Notebook&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
